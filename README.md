@@ -4,7 +4,7 @@
 Create a basic interactive dashboard showing sales by month, region, and category.
 
 ## Dataset
-- `Superstore_Sales.csv` (columns: Order Date, Region, Category, Sales, Profit)
+- `Sample - Superstore.xlsx` (columns: Order Date, Region, Category, Sales, Profit)
 
 ## Steps
 1) Imported CSV into Power BI.
